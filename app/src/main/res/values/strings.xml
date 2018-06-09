@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alter Ego Frames</string>
+    <string name="business_name">Alter Ego Frames</string>
+    <string name="tagline">Bringing creativity to life.</string>
+    <string name="address"># 1626, K T No. 1773, Bogadi Village Near Mariyaniketan School Mysore KA 570026 IN</string>
+    <string name="phone">9964248030</string>
+    <string name="email">alteregoframes@gmail.com</string>
+    <string name="open_hours">10:00 – 18:00</string>
+    <string name="instahandle">Instagram handle</string>
+    <string name="youtubehandle">Youtube handle</string>
+    <string name="fbhandle">Facebook handle</string>
+    <string name="sample_img">Sample Image</string>
+</resources>
